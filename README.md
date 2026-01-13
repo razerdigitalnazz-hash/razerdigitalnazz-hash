@@ -1,7 +1,7 @@
-### Hola, soy Nazaret Rangel 👋
+### Hola, soy Nazz Rangel 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=70&fontColor=ffffff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=35" width="100%"/>
 </div>
 
 ### 🚀 Sobre mí
@@ -9,7 +9,7 @@ Ingeniero Agrónomo convertido en Especialista en Tecnología. Mi pasión es la 
 
 - 🔭 Actualmente trabajando en: **Orquestación de Agentes Autónomos con n8n y LLMs Locales.**
 - 🌱 Aprendiendo: Integraciones avanzadas de **Python** para APIs.
-- ⚡ Dato curioso: Aplico la misma lógica de gestión de una granja productiva para gestionar granjas de servidores y dockers.
+- ⚡ Dato curioso: Aplico la misma lógica de gestión de una granja productiva para gestionar granjas de servidores.
 
 ---
 
@@ -35,7 +35,8 @@ Especialista en entornos locales, optimización de recursos y despliegue.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
