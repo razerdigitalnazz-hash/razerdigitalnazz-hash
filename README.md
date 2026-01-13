@@ -1,7 +1,7 @@
 ### Hola, soy Nazz Rangel 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=35&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
 
 ### 🚀 Sobre mí
@@ -17,28 +17,22 @@ Ingeniero Agrónomo convertido en Especialista en Tecnología. Mi pasión es la 
 Especialista en entornos locales, optimización de recursos y despliegue.
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
   <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
 </div>
 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="stats graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="languages graph" />
-</div>
+
+![Nazaret's GitHub stats](https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
