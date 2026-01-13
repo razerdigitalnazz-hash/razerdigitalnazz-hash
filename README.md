@@ -1,7 +1,7 @@
 ### Hola, soy Nazz Rangel 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Automation%20%26%20AI%20Engineer&fontSize=30&fontColor=ffffff&fontAlignY=35&v=3" width="100%" alt="Header Image" />
 </div>
 
 ### 🚀 Sobre mí
@@ -31,8 +31,11 @@ Especialista en entornos locales, optimización de recursos y despliegue.
 
 ### 📊 GitHub Stats
 
-![Nazaret's GitHub stats](https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true&v=3" width="100%" alt="Stats Graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true&v=3" width="100%" alt="Languages Graph" />
+</div>
 
 ---
 
