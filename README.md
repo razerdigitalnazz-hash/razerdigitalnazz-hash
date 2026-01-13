@@ -1,33 +1,56 @@
+<div align="center">
+
 # 🚀 Nazz Rangel
-### Automation & AI Engineer | Local LLMs Specialist
+### **Automation & AI Engineer | Local LLMs | Soporte IT**
 
-Ingeniero Agrónomo convertido en Especialista en Tecnología. Mi pasión es la **optimización extrema**: hacer que modelos de IA potentes corran en hardware limitado y automatizar flujos de trabajo complejos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazaret-rangel-tech/)
 
-- 🔭 Actualmente trabajando en: **Orquestación de Agentes Autónomos con n8n.**
-- 🌱 Aprendiendo: **Python** avanzado para integraciones API.
-- ⚡ Dato curioso: Gestiono servidores con la misma lógica que una unidad de producción agrícola.
-
----
-
-### 🛠️ Stack Tecnológico
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" /> <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+**Ingeniero Agrónomo convertido en Especialista Tech**  
+*Optimización extrema de Hardware & Automatización de Procesos.*
 
 ---
 
-### 📊 GitHub Stats
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](img.shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=razerdigitalnazz-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-<br>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razerdigitalnazz-hash&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+### 👨‍💻 Sobre mí
+Mi enfoque es la eficiencia: hacer que modelos de IA potentes corran en hardware limitado y automatizar lo aburrido para enfocarnos en lo importante.
+
+- 🔭 **Proyecto Actual:** Orquestación de Agentes Autónomos con [n8n](n8n.io) y LLMs Locales.
+- 🌱 **Aprendiendo:** Python avanzado para integraciones API.
+- ⚡ **Filosofía:** Gestiono servidores con la misma lógica productiva que una unidad agrícola.
 
 ---
 
-### 📫 Contacto
-<a href="https://www.linkedin.com/in/nazaret-rangel-tech/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 📊 Rendimiento en GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="github-readme-stats.vercel.app" height="170" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="github-readme-stats.vercel.app" height="170" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<p align="center"> 
+  <em>"La automatización no es solo software, es cultura."</em>
+</p>
